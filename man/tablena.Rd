@@ -2,7 +2,7 @@
 % Please edit documentation in R/tablena.R
 \name{tablena}
 \alias{tablena}
-\title{A table with missing data.}
+\title{\code{tablena()}}
 \usage{
 tablena(x)
 }
@@ -13,7 +13,7 @@ tablena(x)
 A table showing frequencies for every unique level in the variable, including missing data.
 }
 \description{
-A table with missing data.
+A table function that checks the number of missing data whatever the class of the variable.
 }
 \examples{
 # Example without missing data
