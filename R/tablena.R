@@ -1,5 +1,8 @@
 
-#' A table with missing data.
+#' `tablena()`
+#'
+#' @description
+#' A table function that checks the number of missing data whatever the class of the variable.
 #'
 #' @param x A vector of any class.
 #'
