@@ -2,7 +2,7 @@
 % Please edit documentation in R/FreqOutcome.R
 \name{FreqOutcome}
 \alias{FreqOutcome}
-\title{A table with missing data.}
+\title{\code{FreqOutcome()}.}
 \usage{
 FreqOutcome(gr_var, status_var, df, exposed_level = NULL)
 }
@@ -19,7 +19,7 @@ FreqOutcome(gr_var, status_var, df, exposed_level = NULL)
 A small data.frame with the number of events by number of patients on each group (events / N (\%)).
 }
 \description{
-A table with missing data.
+A short description...
 }
 \examples{
 ### Data

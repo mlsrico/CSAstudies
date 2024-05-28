@@ -29,6 +29,7 @@
 
 
 FreqOutcome <- function(gr_var, status_var, df, exposed_level = NULL){
+  library("tidyverse")
 
   colnames(df)[which(colnames(df)==gr_var)] <- "gr_var"
   colnames(df)[which(colnames(df)==status_var)] <- "status_var"

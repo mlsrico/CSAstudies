@@ -26,6 +26,7 @@
 
 
 CleanLog <- function(res){
+  library("tidyverse")
 
  if("glm" %in% class(res)){
 
