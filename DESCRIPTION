@@ -1,15 +1,10 @@
 Package: CSAstudies
 Title: Some utility functions to work on CSA data
-Version: 0.0.1.
-Authors@R: 
-    person("Marina", "Sánchez-Rico", , "mlsrico@outlook.es", role = c("aut", "cre"),
-           comment = c(ORCID = "0000-0002-1121-8641"))
-Description: This package offers a suite of user-friendly functions tailored to 
-the unique needs of the CSA dataset. Key features include easy table functions that
-directly uses handle missing data, specialized functions for 
-critical variables within the database, and easy data manipulation and analysis tools.
-URL: https://devtools.r-lib.org/, https://github.com/r-lib/devtools
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a license
+Version: 0.0.0.9000
+Authors@R: person("Marina", "Sánchez-Rico", , "mlsrico@outlook.es", role = c("aut", "cre"), comment = c(ORCID = "0000-0002-1121-8641"))
+Description: This package offers a suite of user-friendly functions tailored to the unique needs of the CSA dataset. Key features include easy table functions that directly uses handle missing data, specialized functions for critical variables within the database, and easy data manipulation and analysis tools.
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.1
