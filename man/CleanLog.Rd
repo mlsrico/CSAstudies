@@ -2,7 +2,7 @@
 % Please edit documentation in R/CleanLog.R
 \name{CleanLog}
 \alias{CleanLog}
-\title{\code{CleanLog()}}
+\title{Clean Results from a Logistic Regression Model}
 \usage{
 CleanLog(res)
 }

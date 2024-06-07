@@ -27,7 +27,7 @@
 CleanLM <- function(res){
   library("tidyverse")
 
-  if("glm" %in% class(res)){
+  if("lm" %in% class(res)){
 
     ci95 <- confint.default(res, level = 0.95)
     sres <- summary(res)

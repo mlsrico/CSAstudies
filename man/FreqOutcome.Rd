@@ -2,7 +2,7 @@
 % Please edit documentation in R/FreqOutcome.R
 \name{FreqOutcome}
 \alias{FreqOutcome}
-\title{\code{FreqOutcome()}.}
+\title{Get number of events by group}
 \usage{
 FreqOutcome(gr_var, status_var, df, exposed_level = NULL)
 }

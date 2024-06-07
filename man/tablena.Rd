@@ -2,7 +2,7 @@
 % Please edit documentation in R/tablena.R
 \name{tablena}
 \alias{tablena}
-\title{\code{tablena()}}
+\title{Cross Tab with Missing Data}
 \usage{
 tablena(x)
 }
