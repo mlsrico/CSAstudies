@@ -1,5 +1,5 @@
 
-#' `FreqOutcome()`.
+#' Get number of events by group
 #'
 #' @description
 #' A short description...

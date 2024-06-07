@@ -1,5 +1,5 @@
 
-#' `tablena()`
+#' Cross Tab with Missing Data
 #'
 #' @description
 #' A table function that checks the number of missing data whatever the class of the variable.

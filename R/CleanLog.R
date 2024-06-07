@@ -1,5 +1,5 @@
 
-#' `CleanLog()`
+#' Clean Results from a Logistic Regression Model
 #'
 #' @description
 #' This function cleans the results of any logistic regression object, and returns them in format OR (95%CI; p-value).
